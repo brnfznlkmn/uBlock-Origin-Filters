@@ -658,3 +658,6 @@ www.facebook.com##.x1y1aw1k > div > .xyen2ro.x1uc6qws.x1n2onr6 > .x1y1aw1k.xwib8
 translatesubtitles.co##.row
 translatesubtitles.co##.bg-dark.py-5
 
+! Oct 22, 2025 https://www.youtube.com
+www.youtube.com##.ryd-premium-teaser
+
