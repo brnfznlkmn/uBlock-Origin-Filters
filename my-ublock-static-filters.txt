@@ -661,3 +661,20 @@ translatesubtitles.co##.bg-dark.py-5
 ! Oct 22, 2025 https://www.youtube.com
 www.youtube.com##.ryd-premium-teaser
 
+! Oct 23, 2025 https://shopee.co.id
+shopee.co.id##.jNDKlC.g45zZ_
+shopee.co.id##.GsqyO_.FfM5u1
+shopee.co.id##.EhYNg3.YIoRat
+shopee.co.id##.kCa9wG
+||down-id.img.susercontent.com/file/ea501f467c8d4f4052b26bf95190e7d*$image
+shopee.co.id##.zH_eX1
+shopee.co.id##.NGAOAD
+shopee.co.id##.DBABll
+shopee.co.id##div.Louq5I:nth-of-type(2)
+shopee.co.id##.VrJRFm.container.WWFqa9 > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
+||down-id.img.susercontent.com/file/b33ffbb591e10c0190287451db89f25f_t*$image
+shopee.co.id##[href="https://shopee.co.id/dustjeans"]
+shopee.co.id##.D2DssP
+shopee.co.id##div:nth-of-type(2) > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
+shopee.co.id##div.Louq5I:nth-of-type(1)
+
