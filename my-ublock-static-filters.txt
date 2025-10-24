@@ -1,680 +1,128 @@
-! TOKOPEDIA
-www.tokopedia.com##.css-1ozis76
-www.tokopedia.com###trending-popular-keywords
-www.tokopedia.com##.css-x2z7wj
-www.tokopedia.com##.eeeacht0.css-12ctp9m-unf-card
-www.tokopedia.com##.eeeacht0.css-1fhhv63-unf-card
-www.tokopedia.com##.bordered.css-stopwq
-www.tokopedia.com##.css-mdfmy2
-www.tokopedia.com##.css-g2vnn6
-www.tokopedia.com##.css-6if0cv
-www.tokopedia.com##.css-xml5xq
-www.tokopedia.com##.css-1wttc64
-www.tokopedia.com##.css-1jxjjx1 > .css-1qbx85q
-www.tokopedia.com##.edxse4c2.css-jdif88
-www.tokopedia.com##.css-12c5ykp
-www.tokopedia.com##.eeeacht0.css-1d97221-unf-card
-www.tokopedia.com##.css-1eoqj0m
-www.tokopedia.com###pdp_comp-QRCode > div
-www.tokopedia.com###pdp_comp-tdn_topads > .css-dig31d
-www.tokopedia.com##.css-9cll6n
-www.tokopedia.com##.css-1du6zni
-www.tokopedia.com##.css-17qnh40 > .css-dig31d
-www.tokopedia.com##.css-wifapm
-www.tokopedia.com##.e1nc1fa21.css-fgtc5o-unf-modal
-www.tokopedia.com##.e90j6ys0.css-1a2xmbh-unf-overlay
-www.tokopedia.com##.css-1w0d7sc
-www.tokopedia.com##div.css-1kppdq0:nth-of-type(2)
-www.tokopedia.com##.css-1ra7d4a
-www.tokopedia.com##.css-76y5tu
-www.tokopedia.com##.eeeacht0.css-1dp256a-unf-card > .css-x2jffe > .css-fcoe5x > .css-i679q5
-
-!SHOPEE
-shopee.co.id##.full-home-banners-wrapper
-shopee.co.id##shopee-banner-closable-ui
-shopee.co.id##.KNMxJX
-shopee.co.id##.R3bOnT
-shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section > .shopee-header-section__header
-shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section
-shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__header
-shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__content
-shopee.co.id##.mzI1jX
-shopee.co.id##.AI_1H4.v-center.flex
-shopee.co.id##.E1OWqQ
-shopee.co.id##.navbar__link--help.navbar__link--hoverable.navbar__link--tappable.navbar__link
-shopee.co.id##.VCnXyn.BGng4e
-shopee.co.id##.stardust-tabs-header__tab--active.stardust-tabs-header__tab
-shopee.co.id##.c_J_OI
-shopee.co.id##.Ji_QfP.DFTbCr
-shopee.co.id##.section-banner-hotword--no-skin
-shopee.co.id##.HLRhQB
-shopee.co.id##.lRHCcS.CzLyKQ
-shopee.co.id##.row.QLiXDZ
-shopee.co.id##.shopee-header-section__header
-shopee.co.id##.BjTxuU.WuLbM9
-shopee.co.id##.T5n8VV.dOZlXw.ificCM.WuLbM9
-shopee.co.id##.IR54W9.fDdBqs.WuLbM9
-shopee.co.id##.QmkEaL.clear-btn-style
-shopee.co.id##._RPX38
-shopee.co.id##.ArX7yj
-shopee.co.id##.AFNv_2.v-center.flex
-shopee.co.id##._Pemhq.EysywS
-shopee.co.id##.o3v65L.RGCpnH.flex
-shopee.co.id##a.iC4Gpu.RGCpnH
-shopee.co.id###pc-drawer-id-1 > .RGCpnH
-shopee.co.id##.N8nd7b.iC4Gpu.RGCpnH.flex
-shopee.co.id##.iC4Gpu.shopee-drawer
-shopee.co.id##.hByNZ_
-shopee.co.id##.p4E7Ry
-shopee.co.id##.r6OuTw.v-center.flex
-shopee.co.id##.hVHGVY
-shopee.co.id##.ho5zqj.v-center.flex
-shopee.co.id##.qLRgNc
-shopee.co.id##.shopee-header-section__content > .image-carousel > .image-carousel__item-list-wrapper > .image-carousel__item-list
-shopee.co.id##.home-category-list
-shopee.co.id##.Hhwytd.gJkGj_
-shopee.co.id##shopee-vertical-stack-ui
-shopee.co.id##.section-below-the-fold > div:nth-of-type(3)
-shopee.co.id##.ciPWrW
-shopee.co.id##.fppaNP
-
-! Tiktok
-www.tiktok.com##.ejkrawn1.css-18e9sac-ButtonGetAppText
-
-! Jun 6, 2024 https://www.speedtest.net
-www.speedtest.net##div.pure-u-1-8:nth-of-type(3)
-www.speedtest.net##.u-c.pure-u-3-4 > p
-www.speedtest.net##.pure-g.content-devices > .u-c.pure-u-1
-www.speedtest.net##.lower-content-blend.lower-content > .container
-www.speedtest.net##.footer
-www.speedtest.net##.main-menu-link
-www.speedtest.net##.ispComponent > div > .result-data
-www.speedtest.net##.eot-dd.eot-dd-content
-www.speedtest.net##.js-data-ip.result-data
-www.speedtest.net##.result-item-share.result-item
-
-! Jun 7, 2024 https://www.kuyhaa-me.com
-
-
-! Jun 8, 2024 https://monkeytype.com
-monkeytype.com##.leftright > .left
-monkeytype.com##.keyTips
-monkeytype.com##.withImage.content-grid.good.banner
-
-! Jun 8, 2024 https://mail.google.com
-mail.google.com##.brC-bsf-aT5-aOt
-mail.google.com##.brC-aT5-aOt-bsf-Jw
-mail.google.com##.brC-aMv-auO.brC-aT5-aOt-Jw
-mail.google.com##.FgKVne.aAw
-mail.google.com###\:17b > .aHS-bnr.aEc.aY7xie.TN
-mail.google.com###\:17a > .aHS-bnr.aEc.aY7xie.TN
-mail.google.com###\:179 > .aHS-bnr.aEc.aY7xie.TN
-mail.google.com##.tRcrsc.bcf.bAw
-
-! Jun 8, 2024 https://www.olx.co.id
-www.olx.co.id##._3r_j1
-www.olx.co.id##._1iXLP
-www.olx.co.id##._34jCd
-vip.idlixofficialx.net###contenedor > center
-vip.idlixofficialx.net##.wpra-rendered.wpra-regular.wpra-plugin-container.wpra-reactions-wrap
-vip.idlixofficialx.net##.module_single_ads
-||84.247.133.159/wp-content/uploads/2024/07/airasiabet_Banner-iklan-Sport-hero_400x400.gif$image
-translatesubtitles.co##.cnt223
-translatesubtitles.co##.fixed-top.bg-dark.navbar-dark.navbar-expand-lg.navbar
-bantenexis.com##.col-md-8.content-area
-bantenexis.com##.col-md-4.widget-area
-bantenexis.com###footer-sidebar
-bantenexis.com##.site-footer
-cooklike.info##.site-main
-cooklike.info##.sidebar.widget-area
-cooklike.info###site-bottom
-www.1024tera.com##.bottom-tip-wrap
-www.1024tera.com##.action-bar-view
-www.reddit.com##shreddit-mod-comment .max-w-full.inline-block.mx-2xs.xs\:mx-xs.py-0
-steamdb.info##.header-sales
-www.linkedin.com##.t-normal.t-12.ml1.artdeco-button--1.artdeco-button--secondary.artdeco-button.pv-text-details__verify-action.app-aware-link
-www.linkedin.com##.ember-view.artdeco-button--secondary.artdeco-button--2.artdeco-button.pvs-profile-actions__custom-action
-www.speedtest.net###zdcFloatingBtn
-www.speedtest.net###onetrust-group-container
-www.speedtest.net###onetrust-button-group-parent
-
-! Sep 28, 2024 https://mail.google.com
-mail.google.com##.t6.gb_hd.gb_h.gb_je
-mail.google.com##.VYBDae-JX-ano
-
-! Oct 7, 2024 https://edlink.id
-edlink.id##.is-no-padding.is-no-box-shadow.card-content > div > div.is-boxed-3.box:nth-of-type(1)
-||edlink.id/assets/img/ppks_spada_banner.png$image
-||edlink.id/assets/img/ppks_spada_banner.png$image
-edlink.id##.message-body
-edlink.id###new-post-box > div > .is-boxed-3.box
-edlink.id###new-post-box > div
-
-open.spotify.com##.Upqw01TOXETOmR5Td7Dj.encore-inverted-light-set.fcsOIN.ButtonInner-sc-14ud5tc-0
-open.spotify.com##.sXrNbiybT8RKnisJnpV3.AvH27oyRpOm17rom9Bnt.I3zkdnuhFFrZ1Rr1BJhb
-
-! Oct 23, 2024 https://www.cnnindonesia.com
-www.cnnindonesia.com##.bottom_banner_container
-www.cnnindonesia.com##.bottom_banner_bar
-www.cnnindonesia.com##.ads-slot-mrads.ads-slot.mr1-scrollpage-height
-www.cnnindonesia.com##.relative.w-\[300px\].flex-none > center
-www.cnnindonesia.com##.paradetail
-||www.cnnindonesia.com/embed/video/1002468?smartautoplay=false&mute=true$subdocument
-
-! Oct 24, 2024 https://www.kuyhaa-me.site
-www.kuyhaa-me.site##.user
-
-! Oct 24, 2024 https://newportal.unsada.ac.id
-||assets.siakadcloud.com/assets/v1/v2/icon/dashboard/overlay.svg$image
-||assets.siakadcloud.com/assets/v1/v2/icon/dashboard/overlay.svg$image
-
-! Oct 24, 2024 https://www.facebook.com
-
-! Oct 27, 2024 https://www.rbtv77.press
-||statics.mvdata47.xyz/img/webp/da/v1/L0.gif?v=10$image
-||statics.mvdata47.xyz/img/webp/da/v1/PCSL2.gif?v=10$image
-||statics.mvdata47.xyz/img/webp/da/v1/PCSL1.gif?v=10$image
-
-! Nov 4, 2024 https://tutorialsaya.com
-tutorialsaya.com##.gmr-single.gmr-box-content
-tutorialsaya.com##.col-md-8.content-area
-tutorialsaya.com##.pos-sticky.col-md-4.widget-area
-tutorialsaya.com###footer-sidebar
-tutorialsaya.com##.site-footer
-
-! Nov 4, 2024 https://indobo.com
-indobo.com##.td-pb-padding-side.td-post-content
-indobo.com##.td-pb-padding-side.td-entry-crumbs
-indobo.com##.td-modal-image
-indobo.com##.td-container.td-footer-container
-indobo.com##.td-front-end-display-block.td-more-articles-box
-indobo.com##.td-post-featured-image
-indobo.com##.td-ss-main-content
-indobo.com##div.td-container > .td-container-border > .td-pb-row
-indobo.com##.td-container-border.td-container.td-sub-footer-container
-indobo.com##.td-image-gradient > .td-pb-padding-side
-indobo.com###td-header-menu
-
-! Nov 4, 2024 https://kelasadsense.com
-kelasadsense.com##.td-ss-main-content
-kelasadsense.com##.td-front-end-display-block.td-more-articles-box
-kelasadsense.com##.td-pb-padding-side.td-entry-crumbs
-kelasadsense.com##.td-main-sidebar.td-pb-span4
-kelasadsense.com##.td-container.td-footer-container
-kelasadsense.com##.td-container-border.td-container.td-sub-footer-container
-kelasadsense.com###td-header-menu
-kelasadsense.com###td-header-search-button > .td-icon-search
-
-! Nov 4, 2024 https://ffindiaapk.xyz
-ffindiaapk.xyz##p
-ffindiaapk.xyz##h3.wp-block-heading
-ffindiaapk.xyz##.ez-toc-container-direction.ez-toc-grey.ez-toc-counter.counter-hierarchy.ez-toc-v2_0_67_1
-
-! Nov 4, 2024 https://tutorialsaya.com
-tutorialsaya.com##.col-md-12
-
-! Nov 5, 2024 https://www.youtube.com
-www.youtube.com##._Notifi986141cation_Big > div > div
-
-snapinsta.app##footer
-snapinsta.app##.content
-snaptik.app##.contents
-snaptik.app##.footer
-ssstwitter.com##.content
-ssstwitter.com##.faqs.l-box.pure-g > div.pure-u-1
-ssstwitter.com##.content-wrapper > .is-center
-ssstwitter.com###accordion
-ssstwitter.com###footer
-
-
-! Nov 11, 2024 https://upfiles-urls.com
-upfiles-urls.com##.faqs
-upfiles-urls.com##body > div
-upfiles-urls.com##footer
-
-! Nov 11, 2024 https://4play.to
-4play.to##.adsheader > div.banner
-4play.to##.adsnav
-
-
-
-! Nov 15, 2024 https://shopee.co.id
-shopee.co.id##.zZbJYF
-shopee.co.id##._J5NJU.v-center.flex
-
-
-
-! Nov 18, 2024 https://tutorialsaya.com
-tutorialsaya.com##.clearfix.gmr-menuwrap
-
-! Nov 18, 2024 https://go.paid4link.com
-go.paid4link.com##div.mb-3.col-12:nth-of-type(2)
-go.paid4link.com##small
-go.paid4link.com##.message
-go.paid4link.com##.footer-note
-go.paid4link.com##.footer > p
-
-! Nov 18, 2024 https://link.paid4link.com
-link.paid4link.com##.blog-content
-
-! Nov 21, 2024 https://www.tokopedia.com
-www.tokopedia.com##.css-1a338gw
-
-! Nov 25, 2024 https://shopee.co.id
-shopee.co.id###sll2-InformationBlockID
-
-! Nov 27, 2024 https://www.cnnindonesia.com
-www.cnnindonesia.com##.text-cnn_black.bg-cnn_light_grey3.px-6.z-20.py-\[34px\].right-0.left-0.bottom-0.fixed
-www.cnnindonesia.com##.relative.w-\[300px\].flex-none
-www.cnnindonesia.com##.z-20.relative.h-10.mb-4.text-sm.text-white.px-4.py-3.bg-cnn_red
-www.cnnindonesia.com###uid_6b77ba4a70_mde6mza6ntm
-www.cnnindonesia.com##div.my-5:nth-of-type(13)
-www.cnnindonesia.com##.w-\[360px\].z-50.right-0.bottom-\[50px\].fixed.mb-4.text-sm.text-white.px-4.py-3.bg-cnn_red
-www.cnnindonesia.com##body > .bg-cnn_black_light2
-www.cnnindonesia.com##.gap-7.mb-5.grid-cols-2.grid
-www.cnnindonesia.com##.bg-cnn_red.pb-4.px-3.\@container
-www.cnnindonesia.com##.mt-5.pb-4.bg-cnn_light_grey3.left-\[calc\(50\%_\+_162px\)\].px-4
-www.cnnindonesia.com##.bottom-\[50px\].left-0.z-40.fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
-
-! Nov 27, 2024 https://news.detik.com
-news.detik.com##.billboard-top
-news.detik.com##.bottom_banner_container
-news.detik.com##.bottom_banner_bar
-news.detik.com##.float-vid__content-title > .media__link
-news.detik.com##.float-vid__content
-news.detik.com###leaderboard
-news.detik.com##.mr1-scrollpage-height
-news.detik.com##.mgt-16.content__bg.grid-row > .column-4
-news.detik.com##.ads-scrollpage-height
-news.detik.com##.staticdetail_ads
-news.detik.com##.staticdetail_container
-news.detik.com##.skybanner
-
-! Nov 27, 2024 https://megapolitan.kompas.com
-megapolitan.kompas.com##.clearfix.kcm__top.kcm
-||widget.kompas.com/pilkada2024/quickcount$subdocument
-kompas.com##.clearfix.kcm__horizontal.kcm
-kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm > .clearfix.kcm__track.kcm
-kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
-kompas.com##div.clearfix.mt2.row > .clearfix.kcm__track.kcm
-||widget.kompas.com/pilkada2024/quickcount$subdocument
-kompas.com##.col-bs10-3
-kompas.com##.clearfix.kcm__tower.kcm
-kompas.com##.nav.clearfix.row
-||widget.kompas.com/pilkada2024/quickcount$subdocument
-kompas.com##.osmplaceonsite.ads-partner-wrap
-kompas.com##.mgidaiml.ads-partner-wrap
-kompas.com##.native-wrap
-
-
-www.youtube.com##.ytp-ce-element
-youtube.com##.ytp-ce-element
-youtube.com##.ytp-ce-covering-overlay
-youtube.com##.ytp-ce-element-shadow
-youtube.com##.ytp-ce-covering-image
-youtube.com##.ytp-ce-expanding-image
-youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show
-youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
-youtube.com##.ytp-pause-overlay
-
-
-
-! Dec 9, 2024 https://chatgpt.com
-chatgpt.com##.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
-
-! Dec 10, 2024 https://www.facebook.com
-
-
-
-! Dec 12, 2024 https://www.youtube.com
-www.youtube.com##.sponsorBlockCategoryPill
-
-! Dec 13, 2024 https://techaku.com
-techaku.com##.td-pb-padding-side.td-post-content
-techaku.com##.td-ss-main-content
-techaku.com##div.td-container > .td-container-border > .td-pb-row
-||techaku.com/wp-content/uploads/2024/12/The-Role-of-Technology-in-the-Disaster-Management-Cycle-1024x576-1-*.png$image
-techaku.com##.td-container-border.td-container.td-sub-footer-container
-techaku.com###td-header-menu
-techaku.com##.td-pb-padding-side.td-entry-crumbs
-techaku.com##.td-header-menu-wrap
-
-! Dec 13, 2024 https://www.tokopedia.com
-www.tokopedia.com##.css-1mseqho
-www.tokopedia.com##.css-103w8d9
-www.tokopedia.com##.css-164umce
-www.tokopedia.com##.css-ude0qk
-www.tokopedia.com##.css-dpjg6p
-
-! Dec 14, 2024 https://archive.org
-||archive.org/includes/donate.php?as_page=1&referer=https%3A%2F%2Farchive.org%2F&donation-identifier=acf7276542e114e3c6908187e5f55c62$subdocument
-||archive.org/includes/donate.php?as_page=1&referer=https%3A%2F%2Farchive.org%2F&donation-identifier=acf7276542e114e3c6908187e5f55c62$subdocument
-
-! Dec 15, 2024 https://quillbot.com
-quillbot.com##.css-gishmb.MuiGrid-item.MuiGrid-root > .css-15212z1.MuiBox-root
-quillbot.com##.css-frj2k7.MuiBox-root
-quillbot.com##.css-cr5h2a.MuiBox-root
-
-! Dec 15, 2024 https://www.instagram.com
-
-
-! Dec 24, 2024 https://seller.tokopedia.com
-seller.tokopedia.com##.css-2y99la
-
-
-shopee.co.id##.theme--ofs.Dtu9HW
-shopee.co.id##.wfGQ6T.Dtu9HW
-
-FACEBOOK
-
-
-! Feb 11, 2025 https://pintu.co.id
-pintu.co.id##.icetNZ.sc-1cgvezn-1
-pintu.co.id##.fhEVdT.sc-19tzq8c-6 > div:nth-of-type(2)
-pintu.co.id##.fkNKqz.sc-1426m3o-6
-pintu.co.id##.ktSeQN.sc-1piog33-1
-pintu.co.id##.dDWMEN.sc-1x47hft-1
-pintu.co.id##.kkrmBl.sc-vdbrq7-6
-pintu.co.id##.kUSyFZ.sc-19tzq8c-9 > .bsewFm.sc-1f9jkwm-0
-pintu.co.id##.hsNiwK.sc-1xfwywf-0
-pintu.co.id##.caXrIG.sc-1mpelx-0
-pintu.co.id##.iaypFN.sc-13pqlba-1
-
-! Feb 11, 2025 https://wise.com
-wise.com##._section__route__banner_yn5x0_9.container-full--max-md.container
-wise.com##.p-y-section-5.footer
-wise.com##.np-theme-personal--forest-green.np-theme-personal > div.np-theme-personal > .section
-wise.com##.seo-bg-primary.p-b-0.section._section__calculator_yn5x0_17 > div.section
-wise.com##div.np-theme-personal > .bg-default.section
-wise.com##.seo-bg-primary.p-b-0.section._section__calculator_yn5x0_17 > .bg-default.section
-wise.com##._wrapper_fl5xs_1.bg-light.section
-wise.com##div.np-theme-personal:nth-of-type(4)
-wise.com###comparison-section > .container > div.row
-wise.com##.seo-bg-primary.p-b-0.section._section__calculator_yn5x0_17 > .np-theme-personal.section
-wise.com##div.np-theme-personal:nth-of-type(7)
-
-! Feb 11, 2025 https://pintu.co.id
-pintu.co.id##.pb-8.relative
-
-! Feb 12, 2025 https://www.tokopedia.com
-www.tokopedia.com##.css-178rf9s
-
-! Feb 13, 2025 https://www.instagram.com
-
-
-
-www.youtube.com###startSegmentButton
-
-
-
-! Feb 19, 2025 https://www.facebook.com
-
-
-! Feb 20, 2025 https://wise.com
-wise.com##.tw-public-nav--submenu.tw-public-nav--en.tw-public-nav
-wise.com##.has-submenu.is-sticky.tw-public-nav-container
-
-! Feb 20, 2025 https://www.instagram.com
-www.instagram.com##.xg4xgkf.xv60zni.x1bymyaz.x1cf5b39.xdb1ctf.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.xgujvf1.xc7aqrk.xxt2rmt.xb9tvrk.x7wuybg.xwihvcr.xhw592a.x1j6awrg.x1s928wv.xt298gk.xd7ygy7.x1vzenxt.x194ut8o.x3zg9eu.x13faqbe.x2b8uid.x1n2onr6.x193iq5w.x13b9bq5.x78zum5.x9f619.xsnw5ke
-
-! Feb 21, 2025 https://crop-circle.imageonline.co
-crop-circle.imageonline.co##div.class:nth-of-type(2) > .px-lg-5.container-fluid
-crop-circle.imageonline.co##div.service:nth-of-type(4)
-crop-circle.imageonline.co##div.service:nth-of-type(5)
-crop-circle.imageonline.co##div.service:nth-of-type(6)
-
-! Feb 23, 2025 https://shopee.co.id
-shopee.co.id##.Dtu9HW
-
-! Feb 25, 2025 https://www.instagram.com
-www.instagram.com##.xvbhtw8.x1j7kr1c.x169t7cy.xod5an3.x11i5rnm.xdj266r.xdt5ytf.x78zum5
-www.instagram.com##.x67bb7w.x78zum5.x6s0dn4
-www.instagram.com##.ctrls4insta-fade-button.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.xds687c.x1ey2m1c.x10l6tqk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619 > ._ap30._aj1-._acas._acao._acan > .x1wunsqr.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.xktsk01.x1yztbdb.xww2gxu.x18nykt9.xudhj91.x14yjl9h.x78zum5.x9f619 > .x9bdzbf.x1n2onr6.x1lliihq
-www.instagram.com##div:nth-of-type(4) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.html-span > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
-www.instagram.com##.x1azxncr > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.html-span > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
-www.instagram.com##.x1wunsqr.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.xktsk01.x1yztbdb.xww2gxu.x18nykt9.xudhj91.x14yjl9h.x78zum5.x9f619
-www.instagram.com##._aj1-._acas._acap._acan.bulk-download-link
-www.instagram.com##.wbloks_79.wbloks_1 > .wbloks_1
-
-! Mar 1, 2025 https://www.onlinedoctranslator.com
-www.onlinedoctranslator.com##.section-feedback.section
-www.onlinedoctranslator.com##section.section:nth-of-type(3)
-www.onlinedoctranslator.com##.link-external.section
-www.onlinedoctranslator.com##.footer
-www.onlinedoctranslator.com##.menu-item-pwc.menu-item > [href="https://www.pdfwordconvert.com/en/"]
-www.onlinedoctranslator.com##.menu-item-oit.menu-item > [href="https://www.onlineimagetool.com/en/"]
-www.onlinedoctranslator.com##.menu-item-sap.menu-item > [href="https://www.splitapdf.com/en/"]
-www.onlinedoctranslator.com##.menu-item-opti.menu-item > [href="https://www.onlinepdftoimage.com/en/"]
-www.onlinedoctranslator.com##.subtitle.section-header > div
-www.onlinedoctranslator.com##section.section:nth-of-type(5)
-www.onlinedoctranslator.com##.faq.section
-www.onlinedoctranslator.com##.language-select-powered-by-google
-www.onlinedoctranslator.com##.mh-rating-display-wrap
-www.onlinedoctranslator.com##.h3
-www.onlinedoctranslator.com##.wrap.formats-supported
-www.onlinedoctranslator.com##.agree
-www.onlinedoctranslator.com##.uploaded-files-removed
-www.onlinedoctranslator.com###modal-exit-intent-donate > .mod-modal-content > .modal-container
-www.onlinedoctranslator.com###modal-exit-intent-donate
-www.onlinedoctranslator.com##.subtitle.section-header > svg
-
-! Mar 2, 2025 https://www.tokopedia.com
-www.tokopedia.com##.css-16ob40b
-www.tokopedia.com##.css-19uzd07
-www.tokopedia.com##.edxse4c2.css-1e3amw5
-www.tokopedia.com##.css-1wlslh7
-www.tokopedia.com##.eeeacht0.css-p643i-unf-card
-www.tokopedia.com##.css-17wblnw
-
-
-! Mar 10, 2025 https://www.tokopedia.com
-www.tokopedia.com##.css-mvo6o9 > .css-bjn8wh
-
-! Mar 12, 2025 https://www.tokopedia.com
-www.tokopedia.com##.carousel.css-10p3cwr
-
-! Mar 12, 2025 https://chat.deepseek.com
-chat.deepseek.com##.a1e75851
-
-! Apr 25, 2025 https://www.tokopedia.com
-www.tokopedia.com##.css-17wblnw
-www.tokopedia.com##.edxse4c2.css-1e3amw5
-www.tokopedia.com##.css-1wlslh7
-www.tokopedia.com##.css-19uzd07
-
-! Apr 25, 2025 https://www.youtube.com
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-reel-shelf-renderer.style-scope
-
-! Apr 25, 2025 https://www.instagram.com
-www.instagram.com##div:nth-of-type(7) > .x1n2onr6 > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.html-span > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
-www.instagram.com##div:nth-of-type(4) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.html-span > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
-
-
-
-! Apr 25, 2025 https://www.youtube.com
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-
-
-
-! Apr 26, 2025 https://twittersave.com
-twittersave.com###about
-twittersave.com##section#features.secbd > .px-4.mx-auto.max-w-4xl
-twittersave.com##.secbd.bg-gray-50
-twittersave.com##.sm\:py-16.py-10.bg-gray-50
-twittersave.com##.border-gray-200.border-b.pt-4.py-10.bg-gray-50
-twittersave.com##.py-8.text-white.bg-blue-500
-twittersave.com##.shadow-md.text-white.bg-blue-500
-
-! Apr 26, 2025 https://shopee.co.id
-shopee.co.id##.ztWpAu
-||down-id.img.susercontent.com/file/id-11134258-7rbk7-m71zozd28rcs2*$image
-shopee.co.id##.ofs-carousel__header
-||down-id.img.susercontent.com/file/id-11134258-7rbk7-m71zozd28rcs2*$image
-shopee.co.id##.u11ZGK.bbdBHo
-shopee.co.id##.IMzAIc
-||down-id.img.susercontent.com/file/050811262ac6f6eb3196bbead105d8e*$image
-shopee.co.id##.y3U_j8.BTNfdi
-shopee.co.id##.B3xFIO
-||down-id.img.susercontent.com/file/050811262ac6f6eb3196bbead105d8e*$image
-||down-id.img.susercontent.com/file/id-11134258-7rbk7-m71zozd28rcs2*$image
-||down-id.img.susercontent.com/file/050811262ac6f6eb3196bbead105d8e*$image
-shopee.co.id##.YQChW1
-||down-id.img.susercontent.com/file/id-50009109-7fbeb2e76a4f2fdb5ee1822a2bc3cd10_tn$image
-||down-id.img.susercontent.com/file/050811262ac6f6eb3196bbead105d8e*$image
-||down-id.img.susercontent.com/file/050811262ac6f6eb3196bbead105d8e*$image
-shopee.co.id##.ofs-carousel__items > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
-shopee.co.id##.qBLBEh.container.JaMTBC > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
-
-! Apr 26, 2025 https://nasional.kompas.com
-nasional.kompas.com##.col-xs-10
-
-! Apr 26, 2025 https://wise.com
-wise.com##._rateAlertsSignup__component_14j94_1.js-RateAlertsSignup
-
-
-
-! May 1, 2025 https://www.instagram.com
-www.instagram.com##.x1azxncr > div > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.html-span > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
-
-! May 1, 2025 https://www.blackbox.ai
-www.blackbox.ai##.mt-4.relative > .w-full.absolute
-
-! May 2, 2025 https://www.facebook.com
-
-
-! May 4, 2025 https://www.youtube.com
-www.youtube.com##.vidiq-toolbar-stats-container
-
-! Jun 27, 2025 https://open.spotify.com
-open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-9960-button--small.encore-inverted-light-set.e-9960-button-primary__inner.e-9960-overflow-wrap-anywhere.e-9960-baseline
-
-! Jun 27, 2025 https://www.facebook.com
-www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.x1jx94hy.x1ja2u2z.x1n2onr6 > .xwib8y2.x1y1aw1k
-www.facebook.com##.x1y1aw1k > div > .x1n2onr6 > .x1y1aw1k.xwib8y2 > div > .x1lliihq.x15x8krk.xde0f50.x5a5i1n.x1obq294.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xmzvs34.xf159sx.x18d9i69.xeuugli.xdj266r.x1lziwak.x14z9mp.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.x14e42zd.x1t7ytsu.x10w94by.x18b5jzi.x1qhh985.x1q0q8m5.x6s0dn4
-www.facebook.com##.x1yc453h.xi81zsa.x1s688f.x1lbecb7.x1lkfr7t.x3x7a5m.xudqn12.x1943h6x.x1fgarty.x1cpjm7i.x1gmr53x.xhkezso.x1s928wv.x1lliihq.x1xmvt09.x1vvkbs.x13faqbe.xeuugli.x193iq5w > .x1j85h84.x1n2onr6.x10wlt62.x6ikm8r.x1lliihq
-www.facebook.com##.x1y1aw1k > div > .x1n2onr6 > .x1cnzs8.xjkvuk6.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6
-www.facebook.com##.xyamay9.xjkvuk6.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6
-
-! Jul 12, 2025 https://www.youtube.com
-www.youtube.com##.shelf-header-layout-wiz--tappable.shelf-header-layout-wiz--disable-horizontal-padding.shelf-header-layout-wiz
-www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(2)
-www.youtube.com###title-container
-www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
-
-! Aug 3, 2025 https://www.netflix.com
-||dnm.nflximg.net/api/v6/hoV2xcnrC420PzPKXHsKD4LFsXA/AAAAAbm79LbqbQ9fWr3L-1V42eypgy3uKSxQlDTlQz1i89lHYQCaZVG96pFCPIovlTYE.png?r=bff$image
-||dnm.nflximg.net/api/v6/hoV2xcnrC420PzPKXHsKD4LFsXA/AAAAAbm79LbqbQ9fWr3L-1V42eypgy3uKSxQlDTlQz1i89lHYQCaZVG96pFCPIovlTYE.png?r=bff$image
-||dnm.nflximg.net/api/v6/hoV2xcnrC420PzPKXHsKD4LFsXA/AAAAAbm79LbqbQ9fWr3L-1V42eypgy3uKSxQlDTlQz1i89lHYQCaZVG96pFCPIovlTYE.png?r=bff$image
-||dnm.nflximg.net/api/v6/hoV2xcnrC420PzPKXHsKD4LFsXA/AAAAAbm79LbqbQ9fWr3L-1V42eypgy3uKSxQlDTlQz1i89lHYQCaZVG96pFCPIovlTYE.png?r=bff$image
-
-
-! Aug 3, 2025 https://www.forbes.com
-www.forbes.com##.list-lander-winners-losers-row.row_5d41f5aa01f74.no-bottom-padding.no-top-padding.et-rows.clearfix.csf-row
-www.forbes.com##.list-lander-share-icons-row.row_5d41e0fab31ef.et-rows.clearfix.csf-row
-www.forbes.com###row-5 > div
-www.forbes.com###row-6 > div
-www.forbes.com##.ng-scope.rtb-top-wrapper
-www.forbes.com##.headline-wrapper
-www.forbes.com##.ng-scope.links > div
-
+Apply changes
+ 
+Revert
+   
+Import and append…
+ 
+Export…
+
+Do not add filters from untrusted sources.
+
+
+Enable my custom filters
+
+Allow custom filters requiring trust
+580
+​
+581
 ! Aug 6, 2025 https://www.instagram.com
+582
 www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.x1y1aw1k.xwib8y2.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.xyri2b.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div
+583
 www.instagram.com##.xvbhtw8.x1j7kr1c.x162z183.xod5an3.x14z9mp.xdj266r.xdt5ytf.x78zum5
-
-
-
+584
+​
+585
+​
+586
+​
+587
 ! Sep 24, 2025 https://www.tokopedia.com
+588
 www.tokopedia.com##.e1t9gu7z2.css-1e3amw5
+589
 www.tokopedia.com##.eeeacht0.css-pv643i-unf-card
-
+590
+​
+591
 ! Oct 11, 2025 https://x.com
+592
 x.com##.r-3pj75a.r-1mmae3n.r-1ssbvtb.r-1habvwh.css-175oi2r
+593
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+594
 x.com##.r-rs99b7.r-1q9bdsx.r-1kqtdi0.css-175oi2r
+595
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(6)
+596
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(9)
+597
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+598
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(6)
+599
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
-
+600
+​
+601
 ! Oct 17, 2025 https://www.facebook.com
+602
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(2)
+603
 www.facebook.com##.xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1q0g3np.x1n2onr6.x1iyjqo2.x78zum5
+604
 www.facebook.com##.xwib8y2.x1y1aw1k.xwya9rg.x1n2onr6
+605
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4
+606
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(2) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
-
+607
+www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5
+608
+​
+609
 ! Sidebar Cleanup
+610
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(2) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+611
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(4) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+612
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(4) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+613
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(7) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+614
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(7) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+615
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(9) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+616
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(9) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+617
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(10) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+618
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(10) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+619
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(11) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+620
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(11) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+621
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(12) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+622
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(12) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+623
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(13) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+624
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(13) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+625
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(14) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+626
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(14) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+627
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(15) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+628
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(15) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+629
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(16) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+630
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(16) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+631
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(17) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+632
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(17) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+633
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(18) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+634
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(18) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+635
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(19) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
+636
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(19) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(20) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x1n2onr6.x2lah0s.x78zum5.x1ja2u2z.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(20) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
-www.facebook.com##.x1us19tq.x1iyjqo2.xdt5ytf.x78zum5 > .x1iyjqo2 .x1lliihq.x15x8krk.xde0f50.x5a5i1n.x1obq294.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xmzvs34.xf159sx.x18d9i69.xeuugli.xdj266r.x1lziwak.x14z9mp.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.x14e42zd.x1t7ytsu.x10w94by.x18b5jzi.x1qhh985.x1q0q8m5.x6s0dn4
-
-! Oct 17, 2025 https://www.facebook.com
-www.facebook.com##.xf7dkkf.x1l90r2v.xv54qhq.xyamay9.x2lah0s .xi81zsa.xo1l8bm.x1sibtaa.x1nxh6w3.x676frb.x4zkp8e.x1943h6x.x1fgarty.x1cpjm7i.x1gmr53x.xhkezso.x1s928wv.x1lliihq.x1xmvt09.x1vvkbs.x13faqbe.xeuugli.x193iq5w
-
-! Oct 19, 2025 https://wise.com
-wise.com##section:nth-of-type(3) > .np-theme-personal
-wise.com##.bg-light.section
-wise.com##.bg-light
-wise.com##.np-theme-personal.section
-wise.com##.np-theme-personal > .section > div.np-theme-personal > div
-wise.com###source-currency-swapper > .section
-wise.com###main > .np-theme-personal > .section
-wise.com##._mainContainer_1x8f7_1
-
-! Oct 21, 2025 https://www.facebook.com
-www.facebook.com##.xyqm7xq.xat24cr.x1ys307a.x1xmf6yo.xso031l.x1q0q8m5.x80vd3b
-www.facebook.com##.x1y1aw1k > div > .xyen2ro.x1uc6qws.x1n2onr6 > .x1y1aw1k.xwib8y2
-
-! Oct 21, 2025 https://translatesubtitles.co
-translatesubtitles.co##.row
-translatesubtitles.co##.bg-dark.py-5
-
-! Oct 22, 2025 https://www.youtube.com
-www.youtube.com##.ryd-premium-teaser
-
-! Oct 23, 2025 https://shopee.co.id
-shopee.co.id##.jNDKlC.g45zZ_
-shopee.co.id##.GsqyO_.FfM5u1
-shopee.co.id##.EhYNg3.YIoRat
-shopee.co.id##.kCa9wG
-||down-id.img.susercontent.com/file/ea501f467c8d4f4052b26bf95190e7d*$image
-shopee.co.id##.zH_eX1
-shopee.co.id##.NGAOAD
-shopee.co.id##.DBABll
-shopee.co.id##div.Louq5I:nth-of-type(2)
-shopee.co.id##.VrJRFm.container.WWFqa9 > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
-||down-id.img.susercontent.com/file/b33ffbb591e10c0190287451db89f25f_t*$image
-shopee.co.id##[href="https://shopee.co.id/dustjeans"]
-shopee.co.id##.D2DssP
-shopee.co.id##div:nth-of-type(2) > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
-shopee.co.id##div.Louq5I:nth-of-type(1)
-
