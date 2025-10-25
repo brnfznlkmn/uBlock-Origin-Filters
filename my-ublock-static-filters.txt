@@ -640,6 +640,9 @@ www.facebook.com##.xf7dkkf.x1l90r2v.xv54qhq.xyamay9.x2lah0s .xi81zsa.xo1l8bm.x1s
 www.facebook.com##.xz9dl7a.xf7dkkf.xv54qhq.x1a8lsjc.x1a02dak.x78zum5.x6s0dn4
 www.facebook.com##.xyqm7xq.xat24cr.x1ys307a.x1xmf6yo.xso031l.x1q0q8m5.x80vd3b
 www.facebook.com##.x1y1aw1k > div > .xyen2ro.x1uc6qws.x1n2onr6 > .x1y1aw1k.xwib8y2
+www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.x1jx94hy.x1ja2u2z.x1n2onr6 > .xwib8y2.x1y1aw1k
+www.facebook.com##.fbJewel.lfloat
+
 
 ! Oct 19, 2025 https://wise.com
 wise.com##section:nth-of-type(3) > .np-theme-personal
@@ -675,9 +678,6 @@ shopee.co.id##.D2DssP
 shopee.co.id##div:nth-of-type(2) > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
 shopee.co.id##div.Louq5I:nth-of-type(1)
 
-! Oct 25, 2025 https://www.facebook.com
-www.facebook.com##.fbJewel.lfloat
 
-! Oct 25, 2025 https://www.speedtest.net
 www.speedtest.net##.eot-info-audience.u-c.pure-u-1-2
 
