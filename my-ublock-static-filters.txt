@@ -78,7 +78,10 @@ shopee.co.id##.Hhwytd.gJkGj_
 shopee.co.id##shopee-vertical-stack-ui
 shopee.co.id##.section-below-the-fold > div:nth-of-type(3)
 shopee.co.id##.ciPWrW
-shopee.co.id##.fppaNP
+shopee.co.id##.Byty4z
+shopee.co.id##.Qxhv_Q
+shopee.co.id##.QMO_Tf
+
 
 ! Tiktok
 www.tiktok.com##.ejkrawn1.css-18e9sac-ButtonGetAppText
@@ -682,10 +685,9 @@ www.facebook.com###fbpurityinfowrapper
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(2)
 www.facebook.com##.xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1q0g3np.x1n2onr6.x1iyjqo2.x78zum5
 www.facebook.com##.xwib8y2.x1y1aw1k.xwya9rg.x1n2onr6
+www.facebook.com##.sentry2.sentry1.fbdbug6.fbpnormal.x1a2a7pz > .xdt5ytf.x78zum5 > .x1ja2u2z.x1n2onr6.x9f619 > .xh8yej3.x1n2onr6.x78zum5.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.x1jx94hy.x1ja2u2z.x1n2onr6 > div > .x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x78zum5.x6s0dn4 > .xh8yej3.x1n2onr6.x78zum5.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.xlhe6ec.x1ja2u2z.x1n2onr6
 
 ! Nov 3, 2025 https://www.instagram.com
 www.instagram.com##span.xe9ewy2.x2fvf9.x1s688f.x1ypdohk:nth-of-type(2)
 
-! Nov 3, 2025 https://www.facebook.com
-www.facebook.com##.sentry2.sentry1.fbdbug6.fbpnormal.x1a2a7pz > .xdt5ytf.x78zum5 > .x1ja2u2z.x1n2onr6.x9f619 > .xh8yej3.x1n2onr6.x78zum5.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.x1jx94hy.x1ja2u2z.x1n2onr6 > div > .x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x78zum5.x6s0dn4 > .xh8yej3.x1n2onr6.x78zum5.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > .x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.xlhe6ec.x1ja2u2z.x1n2onr6
 
