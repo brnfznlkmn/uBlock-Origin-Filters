@@ -52,7 +52,7 @@ www.tokopedia.com##.css-mvo6o9 > .css-bjn8wh
 www.tokopedia.com##.carousel.css-10p3cwr
 www.tokopedia.com##.css-dqw6r5
 www.tokopedia.com##.css-1q9va7t
-www.tokopedia.com##.css-7a6gx4
+www.tokopedia.com##.e1wdpngw2.css-1e71h4d
 
 !------------------------------------------------------------------------------
 
@@ -385,17 +385,6 @@ www.kuyhaa.me##.sharing
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 !------------------------------------------------------------------------------
 tutorialsaya.com##.gmr-single.gmr-box-content
 tutorialsaya.com##.col-md-8.content-area
@@ -450,6 +439,15 @@ cooklike.info###site-bottom
 www.1024tera.com##.bottom-tip-wrap
 www.1024tera.com##.action-bar-view
 !------------------------------------------------------------------------------
-
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
 
 
