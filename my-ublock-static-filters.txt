@@ -50,6 +50,9 @@ www.tokopedia.com##.eeeacht0.css-p643i-unf-card
 www.tokopedia.com##.css-17wblnw
 www.tokopedia.com##.css-mvo6o9 > .css-bjn8wh
 www.tokopedia.com##.carousel.css-10p3cwr
+www.tokopedia.com##.css-dqw6r5
+www.tokopedia.com##.css-1q9va7t
+www.tokopedia.com##.css-7a6gx4
 
 !------------------------------------------------------------------------------
 
@@ -142,6 +145,7 @@ shopee.co.id##.YQChW1
 ||down-id.img.susercontent.com/file/050811262ac6f6eb3196bbead105d8e*$image
 shopee.co.id##.ofs-carousel__items > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
 shopee.co.id##.qBLBEh.container.JaMTBC > .image-carousel > .carousel-arrow--hint.carousel-arrow--next.carousel-arrow
+shopee.co.id##.stardust-tabs-header
 
 !------------------------------------------------------------------------------
 
@@ -446,13 +450,6 @@ cooklike.info###site-bottom
 www.1024tera.com##.bottom-tip-wrap
 www.1024tera.com##.action-bar-view
 !------------------------------------------------------------------------------
-
-
-
-
-
-
-
 
 
 
