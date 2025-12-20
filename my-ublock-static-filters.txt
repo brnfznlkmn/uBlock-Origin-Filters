@@ -204,27 +204,8 @@ x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6
 
 !------------------------------------------------------------------------------
 
-www.youtube.com##.ytp-ce-element
-youtube.com##.ytp-ce-element
-youtube.com##.ytp-ce-covering-overlay
-youtube.com##.ytp-ce-element-shadow
-youtube.com##.ytp-ce-covering-image
-youtube.com##.ytp-ce-expanding-image
-youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show
-youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
-youtube.com##.ytp-pause-overlay
-www.youtube.com##.sponsorBlockCategoryPill
-www.youtube.com###startSegmentButton
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-reel-shelf-renderer.style-scope
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-www.youtube.com##.shelf-header-layout-wiz--tappable.shelf-header-layout-wiz--disable-horizontal-padding.shelf-header-layout-wiz
-www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(2)
-www.youtube.com###title-container
-www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
 www.youtube.com##.ryd-premium-teaser
-www.youtube.com##.vidiq-toolbar-stats-container
-www.youtube.com##._Notifi986141cation_Big > div > div
+
 
 
 !------------------------------------------------------------------------------
