@@ -484,5 +484,6 @@ safefileku.com##.bg-gray-50.sm\:py-32.py-20
 ! Dec 16, 2025 https://www.tokopedia.com
 www.tokopedia.com##.eg8apji0.css-1iu9s28-unf-btn.button
 
-
+! Dec 21, 2025 https://www.facebook.com
+www.facebook.com##.xyqm7xq.xat24cr.x1ys307a.x1xmf6yo.xso031l.x1q0q8m5.x80vd3b
 
