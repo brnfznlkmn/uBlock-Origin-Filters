@@ -487,3 +487,34 @@ www.tokopedia.com##.eg8apji0.css-1iu9s28-unf-btn.button
 ! Dec 21, 2025 https://www.facebook.com
 www.facebook.com##.xyqm7xq.xat24cr.x1ys307a.x1xmf6yo.xso031l.x1q0q8m5.x80vd3b
 
+! Dec 22, 2025 https://web.whatsapp.com
+web.whatsapp.com##div.xg01cxk:nth-of-type(2)
+web.whatsapp.com##.xwib8y2.x1icxu4v.x17gydlx.x1y1aw1k.xe2zdcy.x1hm9lzh.x1rs47hk.x1ad89wd.x1ua388o.x86at4b.x1gzssx3.xpbnuc5.xe3rdy5.xj8bxqt.xwji4o3.x1d8287x.x15406qy.xj21bgg.xum4auv.x1143rjc.x1ekkm8c.x5yr21d.x1n2onr6.x78zum5
+
+! Dec 22, 2025 https://www.notion.so
+www.notion.so##.notion-default-overlay-container.notion-overlay-container > div > div > div > div > div > div > div > div
+
+! Dec 22, 2025 https://wise.com
+wise.com##.tw-public-nav--submenu.tw-public-nav--en.tw-public-nav
+wise.com##.seo-bg-primary.p-b-0.section._section__calculator_glqe0_17 > div.np-theme-personal > .np-theme-personal
+wise.com##.p-y-section-5.footer
+wise.com##.np-theme-personal--forest-green.np-theme-personal > div.np-theme-personal > .section
+wise.com##.has-submenu.is-sticky.tw-public-nav-container
+
+! Dec 22, 2025 https://pintu.co.id
+pintu.co.id##.kVywZE.sc-1426m3o-5
+
+! Dec 22, 2025 https://wise.com
+wise.com##._subcopy_1kij0_24.m-b-5.mw-body-1-bold
+wise.com##._ccConverter_14arr_1 > .m-t-2
+
+! Dec 22, 2025 https://pintu.co.id
+pintu.co.id##.ZNUcr.sc-1426m3o-2
+
+! Dec 22, 2025 https://wise.com
+wise.com##._comparisonSection_1p2r4_1
+wise.com##._savingsContainer_14arr_149
+
+! Dec 22, 2025 https://www.instagram.com
+www.instagram.com##.x1dgkk2l.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1diwwjn.xod5an3.xbmvrgn.x14vqqas.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x78zum5.x9f619.html-div
+
