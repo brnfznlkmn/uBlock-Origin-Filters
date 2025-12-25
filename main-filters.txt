@@ -531,3 +531,7 @@ dm.terabox.com##.bottom-tip-wrap-part.bottom-tip-wrap
 dm.terabox.com##.wrapper
 dm.terabox.com##.ai-icon.switch-icon
 dm.terabox.com##.membership-entry-new
+
+! Dec 25, 2025 https://www.google.com
+www.google.com##.gb_I.gb_1.gb_vd > .gb_D > .gb_B
+
