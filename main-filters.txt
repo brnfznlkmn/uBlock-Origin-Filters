@@ -246,17 +246,6 @@ monkeytype.com##.leftright > .left
 monkeytype.com##.keyTips
 monkeytype.com##.withImage.content-grid.good.banner
 !------------------------------------------------------------------------------
-mail.google.com##.brC-bsf-aT5-aOt
-mail.google.com##.brC-aT5-aOt-bsf-Jw
-mail.google.com##.brC-aMv-auO.brC-aT5-aOt-Jw
-mail.google.com##.FgKVne.aAw
-mail.google.com###\:17b > .aHS-bnr.aEc.aY7xie.TN
-mail.google.com###\:17a > .aHS-bnr.aEc.aY7xie.TN
-mail.google.com###\:179 > .aHS-bnr.aEc.aY7xie.TN
-mail.google.com##.tRcrsc.bcf.bAw
-mail.google.com##.t6.gb_hd.gb_h.gb_je
-mail.google.com##.VYBDae-JX-ano
-!------------------------------------------------------------------------------
 www.olx.co.id##._1iXLP
 www.olx.co.id##._34jCd
 vip.idlixofficialx.net###contenedor > center
