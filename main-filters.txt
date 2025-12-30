@@ -524,3 +524,7 @@ dm.terabox.com##.membership-entry-new
 ! Dec 25, 2025 https://www.google.com
 www.google.com##.gb_I.gb_1.gb_vd > .gb_D > .gb_B
 
+! Dec 30, 2025 https://mail.proton.me
+mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+mail.proton.me##.items-start.w-full.flex-nowrap.flex
+
