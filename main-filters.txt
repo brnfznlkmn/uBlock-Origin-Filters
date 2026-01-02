@@ -528,3 +528,7 @@ www.google.com##.gb_I.gb_1.gb_vd > .gb_D > .gb_B
 mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
 mail.proton.me##.items-start.w-full.flex-nowrap.flex
 
+! Jan 2, 2026 https://www.deepl.com
+www.deepl.com##.dark\:bg-gray-800.bg-white.border-gray-100.border-s.max-w-\[400px\].z-\[8\].relative
+www.deepl.com##.\[\.is-home_\&\]\:hidden.bg-white.justify-center.flex
+
