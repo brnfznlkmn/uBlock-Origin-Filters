@@ -1,4 +1,4 @@
-! TOKOPEDIA
+! TOKOPEDIA--------------------------------------------------------------------- AUTHOR: @BRNFZNLKMN
 www.tokopedia.com##.css-1ozis76
 www.tokopedia.com###trending-popular-keywords
 www.tokopedia.com##.css-x2z7wj
@@ -168,7 +168,8 @@ www.facebook.com##.x1v0nzow.x1ceravr.xgmub6v.x193iq5w > div > div
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4 > .xh8yej3.x1n2onr6.xl56j7k.x5yr21d.xdt5ytf.x78zum5.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.xggy1nq.x1hl2dhg.x16tdsg8.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x1i10hfl
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span > .x1n2onr6.x1s65kcs.x78zum5.x6s0dn4
 www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
-
+www.facebook.com##.xyqm7xq.xat24cr.x1ys307a.x1xmf6yo.xso031l.x1q0q8m5.x80vd3b
+www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.x1jx94hy.x1ja2u2z.x1n2onr6 > .xh8yej3
 
 
 !------------------------------------------------------------------------------
@@ -188,7 +189,8 @@ www.instagram.com##div:nth-of-type(4) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedc
 www.instagram.com##span.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span:nth-of-type(2) > .x1n2onr6 > ._a6hd.x4gyw5p.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.xt0psk2.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x1i10hfl > .x15x8krk.xde0f50.x5a5i1n.x1obq294.x1wj20lx.x1eunh74.x11hdxyr.x8st7rj.x9k3k5o.x1dejxi8.xdoji71.x10v4vz6.x1lhsz42.x4afuhf.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
 www.instagram.com##div:nth-of-type(8) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span > .x1n2onr6 > ._a6hd.x4gyw5p.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.xt0psk2.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x1i10hfl > .x15x8krk.xde0f50.x5a5i1n.x1obq294.x1wj20lx.x1eunh74.x11hdxyr.x8st7rj.x9k3k5o.x1dejxi8.xdoji71.x10v4vz6.x1lhsz42.x4afuhf.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
 www.instagram.com##.x1n2onr6 > .x1i10hfl > div > .xh8yej3.x1n2onr6.xg10s4p > .xh8yej3.x10l6tqk.x5yr21d.xyzq4qe > .x1ja2u2z.xh8yej3.x1n2onr6.x5yr21d.x1lliihq > .xh8yej3.x1n2onr6.x5yr21d > .xh8yej3.x1n2onr6.x5yr21d > .xh8yej3.x1uhb9sk.x5yr21d > div > .xh8yej3.x13vifvy.x10l6tqk.x5yr21d > .ctrls4insta-fade-button.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.xtijo5x.x1ey2m1c.x10l6tqk.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > ._asx2._asw_._aswu._aswq._aswp > .x1dgkk2l.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1diwwjn.xod5an3.xbmvrgn.x14vqqas.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x78zum5.x9f619.html-div
-
+www.instagram.com##div.xod5an3.xpilrb4.xso031l.x1lun4ml.x178xt8z.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x15x8krk.xde0f50.x5a5i1n.x1obq294.x18dxpii.x1bs97v6.x6usi7g.x5ur3kl.xvbhtw8.xh8yej3.xl56j7k.x6s0dn4:nth-of-type(1)
+www.instagram.com##.x1dgkk2l.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1diwwjn.xod5an3.xbmvrgn.x14vqqas.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x78zum5.x9f619.html-div
 
 !------------------------------------------------------------------------------
 
@@ -226,6 +228,8 @@ www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-rende
 www.youtube.com##.ryd-premium-teaser
 www.youtube.com##.vidiq-toolbar-stats-container
 www.youtube.com##._Notifi986141cation_Big > div > div
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 
 
 !------------------------------------------------------------------------------
@@ -241,21 +245,16 @@ www.speedtest.net##.ispComponent > div > .result-data
 www.speedtest.net##.eot-dd.eot-dd-content
 www.speedtest.net##.js-data-ip.result-data
 www.speedtest.net##.result-item-share.result-item
-!------------------------------------------------------------------------------
 monkeytype.com##.leftright > .left
 monkeytype.com##.keyTips
 monkeytype.com##.withImage.content-grid.good.banner
 !------------------------------------------------------------------------------
-www.olx.co.id##._1iXLP
-www.olx.co.id##._34jCd
 vip.idlixofficialx.net###contenedor > center
 vip.idlixofficialx.net##.wpra-rendered.wpra-regular.wpra-plugin-container.wpra-reactions-wrap
 vip.idlixofficialx.net##.module_single_ads
 ||84.247.133.159/wp-content/uploads/2024/07/airasiabet_Banner-iklan-Sport-hero_400x400.gif$image
 translatesubtitles.co##.cnt223
 translatesubtitles.co##.fixed-top.bg-dark.navbar-dark.navbar-expand-lg.navbar
-
-www.reddit.com##shreddit-mod-comment .max-w-full.inline-block.mx-2xs.xs\:mx-xs.py-0
 steamdb.info##.header-sales
 www.linkedin.com##.t-normal.t-12.ml1.artdeco-button--1.artdeco-button--secondary.artdeco-button.pv-text-details__verify-action.app-aware-link
 www.linkedin.com##.ember-view.artdeco-button--secondary.artdeco-button--2.artdeco-button.pvs-profile-actions__custom-action
@@ -263,26 +262,9 @@ snapinsta.app##footer
 snapinsta.app##.content
 snaptik.app##.contents
 snaptik.app##.footer
-ssstwitter.com##.content
-ssstwitter.com##.faqs.l-box.pure-g > div.pure-u-1
-ssstwitter.com##.content-wrapper > .is-center
-ssstwitter.com###accordion
-ssstwitter.com###footer
 upfiles-urls.com##.faqs
 upfiles-urls.com##body > div
 upfiles-urls.com##footer
-!------------------------------------------------------------------------------
-pintu.co.id##.icetNZ.sc-1cgvezn-1
-pintu.co.id##.fhEVdT.sc-19tzq8c-6 > div:nth-of-type(2)
-pintu.co.id##.fkNKqz.sc-1426m3o-6
-pintu.co.id##.ktSeQN.sc-1piog33-1
-pintu.co.id##.dDWMEN.sc-1x47hft-1
-pintu.co.id##.kkrmBl.sc-vdbrq7-6
-pintu.co.id##.kUSyFZ.sc-19tzq8c-9 > .bsewFm.sc-1f9jkwm-0
-pintu.co.id##.hsNiwK.sc-1xfwywf-0
-pintu.co.id##.caXrIG.sc-1mpelx-0
-pintu.co.id##.iaypFN.sc-13pqlba-1
-pintu.co.id##.pb-8.relative
 !------------------------------------------------------------------------------
 crop-circle.imageonline.co##div.class:nth-of-type(2) > .px-lg-5.container-fluid
 crop-circle.imageonline.co##div.service:nth-of-type(4)
@@ -309,14 +291,6 @@ www.onlinedoctranslator.com###modal-exit-intent-donate > .mod-modal-content > .m
 www.onlinedoctranslator.com###modal-exit-intent-donate
 www.onlinedoctranslator.com##.subtitle.section-header > svg
 !------------------------------------------------------------------------------
-twittersave.com###about
-twittersave.com##section#features.secbd > .px-4.mx-auto.max-w-4xl
-twittersave.com##.secbd.bg-gray-50
-twittersave.com##.sm\:py-16.py-10.bg-gray-50
-twittersave.com##.border-gray-200.border-b.pt-4.py-10.bg-gray-50
-twittersave.com##.py-8.text-white.bg-blue-500
-twittersave.com##.shadow-md.text-white.bg-blue-500
-!------------------------------------------------------------------------------
 www.forbes.com##.list-lander-winners-losers-row.row_5d41f5aa01f74.no-bottom-padding.no-top-padding.et-rows.clearfix.csf-row
 www.forbes.com##.list-lander-share-icons-row.row_5d41e0fab31ef.et-rows.clearfix.csf-row
 www.forbes.com###row-5 > div
@@ -333,6 +307,15 @@ wise.com##.np-theme-personal > .section > div.np-theme-personal > div
 wise.com###source-currency-swapper > .section
 wise.com###main > .np-theme-personal > .section
 wise.com##._mainContainer_1x8f7_1
+wise.com##.tw-public-nav--submenu.tw-public-nav--en.tw-public-nav
+wise.com##.seo-bg-primary.p-b-0.section._section__calculator_glqe0_17 > div.np-theme-personal > .np-theme-personal
+wise.com##.p-y-section-5.footer
+wise.com##.np-theme-personal--forest-green.np-theme-personal > div.np-theme-personal > .section
+wise.com##.has-submenu.is-sticky.tw-public-nav-container
+wise.com##._subcopy_1kij0_24.m-b-5.mw-body-1-bold
+wise.com##._ccConverter_14arr_1 > .m-t-2
+wise.com##._comparisonSection_1p2r4_1
+wise.com##._savingsContainer_14arr_149
 !------------------------------------------------------------------------------
 translatesubtitles.co##.row
 translatesubtitles.co##.bg-dark.py-5
@@ -342,13 +325,6 @@ www.speedtest.net###onetrust-button-group-parent
 www.speedtest.net##.eot-info-audience.u-c.pure-u-1-2
 www.kuyhaa.me##div#protected-content > center
 www.kuyhaa.me##.sharing
-
-
-
-
-
-
-!------------------------------------------------------------------------------
 tutorialsaya.com##.gmr-single.gmr-box-content
 tutorialsaya.com##.col-md-8.content-area
 tutorialsaya.com##.pos-sticky.col-md-4.widget-area
@@ -401,38 +377,12 @@ cooklike.info##.sidebar.widget-area
 cooklike.info###site-bottom
 www.1024tera.com##.bottom-tip-wrap
 www.1024tera.com##.action-bar-view
+dm.terabox.com##.side-bottom
+dm.terabox.com##.bottom-tip-wrap-part.bottom-tip-wrap
+dm.terabox.com##.wrapper
+dm.terabox.com##.ai-icon.switch-icon
+dm.terabox.com##.membership-entry-new
 !------------------------------------------------------------------------------
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-
-! Nov 15, 2025 https://music.apple.com
-music.apple.com##.navigation__native-cta > div
-
-
-
-
-! Nov 15, 2025 https://qooly.com
-qooly.com##.active.popup-overlay
-qooly.com##.collapse-cards
-qooly.com##footer
-qooly.com##header
-
-! Nov 16, 2025 https://www.youtube.com
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-
-! Nov 19, 2025 https://www.instagram.com
-www.instagram.com##div.xod5an3.xpilrb4.xso031l.x1lun4ml.x178xt8z.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x15x8krk.xde0f50.x5a5i1n.x1obq294.x18dxpii.x1bs97v6.x6usi7g.x5ur3kl.xvbhtw8.xh8yej3.xl56j7k.x6s0dn4:nth-of-type(1)
-
-! Nov 23, 2025 https://www.paraphraser.io
 ||www.paraphraser.io/images/pricing.png$image
 www.paraphraser.io##.p-0.d-none.d-lg-flex.col-lg-2
 www.paraphraser.io##.d-none.d-sm-block.fw-semibold
@@ -456,11 +406,7 @@ www.paraphraser.io##section:nth-of-type(6)
 www.paraphraser.io##section.py-5.content-section:nth-of-type(7)
 www.paraphraser.io##body > .bg-065F51
 www.paraphraser.io##body > .bg-white
-
-! Nov 26, 2025 https://www.youtube.com
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
-
-! Dec 4, 2025 https://safefileku.com
+!------------------------------------------------------------------------------
 ||cdn.safefileku.com/download-section-min.png$image
 safefileku.com##.space-y-4.lg\:block.hidden > section
 safefileku.com##.px-6.my-8
@@ -469,66 +415,30 @@ safefileku.com##.bg-white.sm\:py-32.py-20
 safefileku.com##.z-0.circles
 safefileku.com##.sm\:py-28.py-20.bg-blue-600.overflow-hidden.relative
 safefileku.com##.bg-gray-50.sm\:py-32.py-20
-
-! Dec 16, 2025 https://www.tokopedia.com
-www.tokopedia.com##.eg8apji0.css-1iu9s28-unf-btn.button
-
-! Dec 21, 2025 https://www.facebook.com
-www.facebook.com##.xyqm7xq.xat24cr.x1ys307a.x1xmf6yo.xso031l.x1q0q8m5.x80vd3b
-
-! Dec 22, 2025 https://web.whatsapp.com
-web.whatsapp.com##div.xg01cxk:nth-of-type(2)
-web.whatsapp.com##.xwib8y2.x1icxu4v.x17gydlx.x1y1aw1k.xe2zdcy.x1hm9lzh.x1rs47hk.x1ad89wd.x1ua388o.x86at4b.x1gzssx3.xpbnuc5.xe3rdy5.xj8bxqt.xwji4o3.x1d8287x.x15406qy.xj21bgg.xum4auv.x1143rjc.x1ekkm8c.x5yr21d.x1n2onr6.x78zum5
-
-! Dec 22, 2025 https://www.notion.so
-www.notion.so##.notion-default-overlay-container.notion-overlay-container > div > div > div > div > div > div > div > div
-
-! Dec 22, 2025 https://wise.com
-wise.com##.tw-public-nav--submenu.tw-public-nav--en.tw-public-nav
-wise.com##.seo-bg-primary.p-b-0.section._section__calculator_glqe0_17 > div.np-theme-personal > .np-theme-personal
-wise.com##.p-y-section-5.footer
-wise.com##.np-theme-personal--forest-green.np-theme-personal > div.np-theme-personal > .section
-wise.com##.has-submenu.is-sticky.tw-public-nav-container
-
-! Dec 22, 2025 https://pintu.co.id
-pintu.co.id##.kVywZE.sc-1426m3o-5
-
-! Dec 22, 2025 https://wise.com
-wise.com##._subcopy_1kij0_24.m-b-5.mw-body-1-bold
-wise.com##._ccConverter_14arr_1 > .m-t-2
-
-! Dec 22, 2025 https://pintu.co.id
-pintu.co.id##.ZNUcr.sc-1426m3o-2
-
-! Dec 22, 2025 https://wise.com
-wise.com##._comparisonSection_1p2r4_1
-wise.com##._savingsContainer_14arr_149
-
-! Dec 22, 2025 https://www.instagram.com
-www.instagram.com##.x1dgkk2l.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1diwwjn.xod5an3.xbmvrgn.x14vqqas.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x78zum5.x9f619.html-div
-
-! Dec 23, 2025 https://web.whatsapp.com
-web.whatsapp.com##.x1i50ybd.xk3sftt.xym2i8p.x18w32sv.x91od0.x12peec7.xtq6bvn.x249io5.x1fe0zbt.xpypsur.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.xpilrb4.xso031l.x1lun4ml.x178xt8z.x13up0n2.x1igtfuo.xcgujcq.x1rsuxf0.x1oiqv2n.xwxc41k.x15zmtp0.x1p5oq8j.xy296fx.x7v7x1q.xamitd3.xozqiw3.x2lwn1j.xeuugli.x1g77sc7.xdl72j9.xs83m0k.x1c4vz4f
-
-! Dec 24, 2025 https://www.facebook.com
-www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.x1jx94hy.x1ja2u2z.x1n2onr6 > .xh8yej3
-
-! Dec 24, 2025 https://dm.terabox.com
-||data.terabox.com/issue/netdisk/ts_ad/ugh/1765247597_1224left-en.png$image
-dm.terabox.com##.side-bottom
-dm.terabox.com##.bottom-tip-wrap-part.bottom-tip-wrap
-dm.terabox.com##.wrapper
-dm.terabox.com##.ai-icon.switch-icon
-dm.terabox.com##.membership-entry-new
-
-! Dec 25, 2025 https://www.google.com
-www.google.com##.gb_I.gb_1.gb_vd > .gb_D > .gb_B
-
-! Dec 30, 2025 https://mail.proton.me
-mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
-mail.proton.me##.items-start.w-full.flex-nowrap.flex
-
-! Jan 2, 2026 https://www.deepl.com
+!------------------------------------------------------------------------------
 www.deepl.com##.dark\:bg-gray-800.bg-white.border-gray-100.border-s.max-w-\[400px\].z-\[8\].relative
 www.deepl.com##.\[\.is-home_\&\]\:hidden.bg-white.justify-center.flex
+account.proton.me##.UpsellPanel.border-strong.panel.lg\:order-0.order-1.self-start.py-5.px-6.rounded.border.relative
+account.proton.me##.UpsellPanel.border-recommended.border-primary.panel.lg\:order-0.order-1.self-start.py-5.px-6.rounded.border.relative
+account.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+mail.proton.me##.items-start.w-full.flex-nowrap.flex
+!
+!
+!
+!
+!
+!
+!
+!------------------------------------------------- @BRNFZNLKMN 2026
+
+
+
+
+
+
+
+
+
+
 
