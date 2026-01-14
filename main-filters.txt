@@ -432,13 +432,6 @@ mail.proton.me##.items-start.w-full.flex-nowrap.flex
 !
 !------------------------------------------------- @BRNFZNLKMN 2026
 
-
-
-
-
-
-
-
-
-
+! Jan 6, 2026 https://www.youtube.com
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
 
