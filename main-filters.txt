@@ -453,3 +453,7 @@ mail.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.f
 ! Jan 18, 2026 https://www.facebook.com
 www.facebook.com###fbpurityinfowrapper
 
+! Mar 9, 2026 https://shopee.co.id
+shopee.co.id###HomePageCarouselBannerSection
+shopee.co.id###HomePageSquareBannerSection
+
