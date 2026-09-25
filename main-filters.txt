@@ -354,3 +354,41 @@ mail.proton.me##.p-0-5.lg\:text-center.text-left.bg-promotion-gradient-horizonta
 !
 !------------------------------------------------- @BRNFZNLKMN 2026
 
+! Sep 9, 2026 https://gemini.google.com
+gemini.google.com##.ng-star-inserted.mat-unthemed.gds-button-tonal.mat-mdc-unelevated-button.mdc-button--unelevated.mat-mdc-button-base.mdc-button > .mat-mdc-button-touch-target
+gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
+gemini.google.com##.ng-star-inserted.bard-activity-disabled-message
+
+! Sep 10, 2026 https://www.photoroom.com
+www.photoroom.com##.text-center.items-center.flex-col.max-w-\[1072px\].flex.mx-auto
+www.photoroom.com##.before\:opacity-100.before\:content-\[\'\'\].before\:duration-300.before\:transition-opacity.before\:h-px.before\:bottom-0.before\:inset-x-0.before\:absolute.before\:pointer-events-none.before\:bg-black-alpha-100.backdrop-blur-md.bg-white-alpha-800.\32 xl\:px-10.md\:px-8.sm\:px-6.px-4.items-center.h-\(--header-height\).flex.relative
+www.photoroom.com##.bg-black.lg\:px-16.md\:ps-8.sm\:ps-6.pe-16.ps-4.text-white.relative
+www.photoroom.com##.md\:px-8.sm\:px-6.px-4.flex-col.flex.gap-i600.pb-e1000.pt-e700.bg-neutral-50
+www.photoroom.com##div.flex-col.flex.gap-i600.pb-e1000.pt-e700:nth-of-type(2)
+www.photoroom.com##.items-stretch.flex-col.flex.gap-i600.pb-e1000.pt-e700.xl\:px-10.md\:px-8.sm\:px-6.px-4
+www.photoroom.com##.px-4.items-center.flex-col.flex.gap-i600.pb-e1000.pt-e700
+www.photoroom.com##section.xl\:px-10.md\:px-8.sm\:px-6.px-4.pb-e1000.pt-e700:nth-of-type(2)
+www.photoroom.com##.xl\:px-10.md\:px-8.sm\:px-6.px-4.py-e500
+www.photoroom.com##.xl\:px-10.md\:px-8.sm\:px-6.px-4.py-e700
+www.photoroom.com##section.xl\:px-10.md\:px-8.sm\:px-6.px-4.pb-e1000.pt-e700:nth-of-type(4)
+www.photoroom.com##.lg\:pb-10.lg\:pt-24.md\:px-8.sm\:pt-20.sm\:px-6.py-6.px-4.bg-surface-default
+www.photoroom.com##body > div > div
+www.photoroom.com##.gap-3.items-center.flex-col.flex
+
+! Sep 20, 2026 https://drive.ucweb.com
+drive.ucweb.com##.downloadBox--LynDp
+
+
+
+! Sep 21, 2026 https://toco.id
+toco.id##.md\:h-\[304px\].sm\:w-screen.sm\:-mx-\[calc\(\(100vw-100\%\)\/2\)\].to-white.from-\[\#FFFCE7\].bg-gradient-to-b.w-full.h-\[280px\]
+toco.id##.md\:mt-16.mt-10.sm\:mx-0.overflow-auto.gap-4.justify-between.snap-proximity.snap-x.h-\[140px\].flex.ml-4
+toco.id##.py-3.border-b.justify-between.w-screen.flex.-mx-\[calc\(\(100vw-100\%\)\/2\)\]
+toco.id##.md\:gap-6.py-2.to-\[\#FFFDE9\].via-\[\#FFF8AE\].via-\[\#FFF7DB\].from-\[\#FFFACF\].bg-gradient-to-r.gap-2.justify-center.items-center.w-full.flex
+toco.id##.duration-300.transition-opacity.md\:rounded-2xl.md\:aspect-\[1192\/281\].rounded-lg.flex-row.cursor-pointer.w-full.aspect-\[390\/121\.15\].flex
+toco.id##.md\:mt-16.mt-14.md\:gap-4.md\:ml-0.gap-3.flex-col.flex.ml-4
+toco.id##.md\:mt-16.mt-14.md\:gap-4.sm\:ml-0.gap-3.flex-col.flex.ml-4
+toco.id##.md\:py-10.py-6.px-4.bg-white.gap-8.flex-col.flex
+toco.id##div.border-classified-color-20.border-t > .bg-white
+toco.id##.md\:mt-16.mt-14.md\:gap-4.sm\:px-0.px-4.gap-3.flex-col.flex
+
