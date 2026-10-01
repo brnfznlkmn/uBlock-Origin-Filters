@@ -158,6 +158,20 @@ shopee.co.id##.shopee-header-section--simple.GKgNDC.shopee-header-section
 
 !------------------------------------------------------------------------------
 
+toco.id##.md\:h-\[304px\].sm\:w-screen.sm\:-mx-\[calc\(\(100vw-100\%\)\/2\)\].to-white.from-\[\#FFFCE7\].bg-gradient-to-b.w-full.h-\[280px\]
+toco.id##.md\:mt-16.mt-10.sm\:mx-0.overflow-auto.gap-4.justify-between.snap-proximity.snap-x.h-\[140px\].flex.ml-4
+toco.id##.py-3.border-b.justify-between.w-screen.flex.-mx-\[calc\(\(100vw-100\%\)\/2\)\]
+toco.id##.md\:gap-6.py-2.to-\[\#FFFDE9\].via-\[\#FFF8AE\].via-\[\#FFF7DB\].from-\[\#FFFACF\].bg-gradient-to-r.gap-2.justify-center.items-center.w-full.flex
+toco.id##.duration-300.transition-opacity.md\:rounded-2xl.md\:aspect-\[1192\/281\].rounded-lg.flex-row.cursor-pointer.w-full.aspect-\[390\/121\.15\].flex
+toco.id##.md\:mt-16.mt-14.md\:gap-4.md\:ml-0.gap-3.flex-col.flex.ml-4
+toco.id##.md\:mt-16.mt-14.md\:gap-4.sm\:ml-0.gap-3.flex-col.flex.ml-4
+toco.id##.md\:py-10.py-6.px-4.bg-white.gap-8.flex-col.flex
+toco.id##div.border-classified-color-20.border-t > .bg-white
+toco.id##.md\:mt-16.mt-14.md\:gap-4.sm\:px-0.px-4.gap-3.flex-col.flex
+
+
+!------------------------------------------------------------------------------
+
 !!!!!FACEBOOK
 !(JADI DI TENGAH)
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(2)
@@ -204,21 +218,11 @@ www.facebook.com##.fbJewel.lfloat
 
 
 !INSTAGRAM
-www.instagram.com##.x1n2onr6 > .x1i10hfl > div > .xh8yej3.x1n2onr6.xg10s4p > .xh8yej3.x10l6tqk.x5yr21d.xyzq4qe > .x1ja2u2z.xh8yej3.x1n2onr6.x5yr21d.x1lliihq > .xh8yej3.x1n2onr6.x5yr21d > .xh8yej3.x1n2onr6.x5yr21d > .xh8yej3.x1uhb9sk.x5yr21d > div > .xh8yej3.x13vifvy.x10l6tqk.x5yr21d > .ctrls4insta-fade-button.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.xtijo5x.x1ey2m1c.x10l6tqk.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > ._asx2._asw_._aswu._aswq._aswp > .x18l40ae.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1diwwjn.xod5an3.xbmvrgn.x14vqqas.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x78zum5.x9f619.html-div
-www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.x1ys307a.xyqm7xq.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xat24cr.xdj266r.html-div
-www.instagram.com##.x67bb7w.x78zum5.x6s0dn4
-www.instagram.com##.x1n2onr6.xg7h5cd > .x1n2onr6 > div:nth-of-type(2)
-www.instagram.com##._aj1-._acas._acap._acan.bulk-download-link
-www.instagram.com##li._acaz > div > .x1i10hfl > div > .xh8yej3.x1n2onr6.xg10s4p > .xh8yej3.x10l6tqk.x5yr21d.xyzq4qe > .x1ja2u2z.xh8yej3.x1n2onr6.x5yr21d.x1lliihq > .xh8yej3.x1n2onr6.x5yr21d > .xh8yej3.x1n2onr6.x5yr21d > .xh8yej3.x1uhb9sk.x5yr21d > div > .xh8yej3.x13vifvy.x10l6tqk.x5yr21d > .ctrls4insta-fade-button.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.xtijo5x.x1ey2m1c.x10l6tqk.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > ._asx2._asw_._aswu._aswq._aswp > .x18l40ae.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1diwwjn.xod5an3.xbmvrgn.x14vqqas.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x78zum5.x9f619.html-div
-www.instagram.com##span.xe9ewy2.x2fvf9.x1s688f.x1ypdohk:nth-of-type(2)
-www.instagram.com##._ab8b
-www.instagram.com##.x3nfvp2.x1n5bzlp.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xt7dq6l.x14e42zd.x1qhh985.x10w94by.x972fbf.x6en5u8.x1ui04y5.x1e4oeot.xr9e8f9.xjbqb8w.x1gzmzvf.xt0b8zv.x14jxsvd.xlal1re.xr5sc7.xl0gqc1.x1i0vuye.x18br7mf.x5c86q.x14atkfc.x87ps6o.xlyipyv.x2b8uid.x17ydfre.xl56j7k.x1f6kntn.x1ypdohk.x9f619.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjyslct.x6s0dn4.x1a2a7pz.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.x1i10hfl
-www.instagram.com##div:nth-of-type(4) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span > .x1n2onr6 > ._a6hd.x4gyw5p.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.xt0psk2.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x1i10hfl > .x15x8krk.xde0f50.x5a5i1n.x1obq294.x1wj20lx.x1eunh74.x11hdxyr.x8st7rj.x9k3k5o.x1dejxi8.xdoji71.x10v4vz6.x1lhsz42.x4afuhf.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
-www.instagram.com##span.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span:nth-of-type(2) > .x1n2onr6 > ._a6hd.x4gyw5p.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.xt0psk2.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x1i10hfl > .x15x8krk.xde0f50.x5a5i1n.x1obq294.x1wj20lx.x1eunh74.x11hdxyr.x8st7rj.x9k3k5o.x1dejxi8.xdoji71.x10v4vz6.x1lhsz42.x4afuhf.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
-www.instagram.com##div:nth-of-type(8) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span > .x1n2onr6 > ._a6hd.x4gyw5p.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.xt0psk2.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x1i10hfl > .x15x8krk.xde0f50.x5a5i1n.x1obq294.x1wj20lx.x1eunh74.x11hdxyr.x8st7rj.x9k3k5o.x1dejxi8.xdoji71.x10v4vz6.x1lhsz42.x4afuhf.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1g0dm76.xsag5q8.xpdmqnj.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
-www.instagram.com##.x1n2onr6 > .x1i10hfl > div > .xh8yej3.x1n2onr6.xg10s4p > .xh8yej3.x10l6tqk.x5yr21d.xyzq4qe > .x1ja2u2z.xh8yej3.x1n2onr6.x5yr21d.x1lliihq > .xh8yej3.x1n2onr6.x5yr21d > .xh8yej3.x1n2onr6.x5yr21d > .xh8yej3.x1uhb9sk.x5yr21d > div > .xh8yej3.x13vifvy.x10l6tqk.x5yr21d > .ctrls4insta-fade-button.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.xtijo5x.x1ey2m1c.x10l6tqk.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div > ._asx2._asw_._aswu._aswq._aswp > .x1dgkk2l.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1diwwjn.xod5an3.xbmvrgn.x14vqqas.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x78zum5.x9f619.html-div
-www.instagram.com##div.xod5an3.xpilrb4.xso031l.x1lun4ml.x178xt8z.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x15x8krk.xde0f50.x5a5i1n.x1obq294.x18dxpii.x1bs97v6.x6usi7g.x5ur3kl.xvbhtw8.xh8yej3.xl56j7k.x6s0dn4:nth-of-type(1)
-www.instagram.com##.x1dgkk2l.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xmzvs34.xwib8y2.xf159sx.x1y1aw1k.x1diwwjn.xod5an3.xbmvrgn.x14vqqas.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x78zum5.x9f619.html-div
+www.instagram.com##.xvbhtw8.x1j7kr1c.x162z183.xod5an3.x14z9mp.xdj266r.xdt5ytf.x78zum5
+
+!TIKTOK
+www.tiktok.com##div.egvv9qt0.css-2jgk8y-7937d88b--DivActionBarContainer:nth-of-type(2) > .TUXTooltip-reference > .egvv9qt3.css-18v4nu9-7937d88b--StyledActionBarButton
+www.tiktok.com###top-right-get-coins-button
 
 
 !------------------------------------------------------------------------------
@@ -238,35 +242,15 @@ www.speedtest.net###zdcFloatingBtn
 www.speedtest.net###onetrust-group-container
 www.speedtest.net###onetrust-button-group-parent
 www.speedtest.net##.eot-info-audience.u-c.pure-u-1-2
+
+!------------------------------------------------------------------------------
+
 monkeytype.com##.leftright > .left
 monkeytype.com##.keyTips
 monkeytype.com##.withImage.content-grid.good.banner
+
 !------------------------------------------------------------------------------
-crop-circle.imageonline.co##div.class:nth-of-type(2) > .px-lg-5.container-fluid
-crop-circle.imageonline.co##div.service:nth-of-type(4)
-crop-circle.imageonline.co##div.service:nth-of-type(5)
-crop-circle.imageonline.co##div.service:nth-of-type(6)
-www.onlinedoctranslator.com##.section-feedback.section
-www.onlinedoctranslator.com##section.section:nth-of-type(3)
-www.onlinedoctranslator.com##.link-external.section
-www.onlinedoctranslator.com##.footer
-www.onlinedoctranslator.com##.menu-item-pwc.menu-item > [href="https://www.pdfwordconvert.com/en/"]
-www.onlinedoctranslator.com##.menu-item-oit.menu-item > [href="https://www.onlineimagetool.com/en/"]
-www.onlinedoctranslator.com##.menu-item-sap.menu-item > [href="https://www.splitapdf.com/en/"]
-www.onlinedoctranslator.com##.menu-item-opti.menu-item > [href="https://www.onlinepdftoimage.com/en/"]
-www.onlinedoctranslator.com##.subtitle.section-header > div
-www.onlinedoctranslator.com##section.section:nth-of-type(5)
-www.onlinedoctranslator.com##.faq.section
-www.onlinedoctranslator.com##.language-select-powered-by-google
-www.onlinedoctranslator.com##.mh-rating-display-wrap
-www.onlinedoctranslator.com##.h3
-www.onlinedoctranslator.com##.wrap.formats-supported
-www.onlinedoctranslator.com##.agree
-www.onlinedoctranslator.com##.uploaded-files-removed
-www.onlinedoctranslator.com###modal-exit-intent-donate > .mod-modal-content > .modal-container
-www.onlinedoctranslator.com###modal-exit-intent-donate
-www.onlinedoctranslator.com##.subtitle.section-header > svg
-!------------------------------------------------------------------------------
+
 www.forbes.com##.list-lander-winners-losers-row.row_5d41f5aa01f74.no-bottom-padding.no-top-padding.et-rows.clearfix.csf-row
 www.forbes.com##.list-lander-share-icons-row.row_5d41e0fab31ef.et-rows.clearfix.csf-row
 www.forbes.com###row-5 > div
@@ -274,7 +258,9 @@ www.forbes.com###row-6 > div
 www.forbes.com##.ng-scope.rtb-top-wrapper
 www.forbes.com##.headline-wrapper
 www.forbes.com##.ng-scope.links > div
+
 !------------------------------------------------------------------------------
+
 wise.com##section:nth-of-type(3) > .np-theme-personal
 wise.com##.bg-light.section
 wise.com##.bg-light
@@ -292,74 +278,9 @@ wise.com##._subcopy_1kij0_24.m-b-5.mw-body-1-bold
 wise.com##._ccConverter_14arr_1 > .m-t-2
 wise.com##._comparisonSection_1p2r4_1
 wise.com##._savingsContainer_14arr_149
-!------------------------------------------------------------------------------
-www.1024tera.com##.bottom-tip-wrap
-www.1024tera.com##.action-bar-view
-dm.terabox.com##.side-bottom
-dm.terabox.com##.bottom-tip-wrap-part.bottom-tip-wrap
-dm.terabox.com##.wrapper
-dm.terabox.com##.ai-icon.switch-icon
-dm.terabox.com##.membership-entry-new
-!------------------------------------------------------------------------------
-||www.paraphraser.io/images/pricing.png$image
-www.paraphraser.io##.p-0.d-none.d-lg-flex.col-lg-2
-www.paraphraser.io##.d-none.d-sm-block.fw-semibold
-www.paraphraser.io##.mt-3.text-center
-www.paraphraser.io##.btn-plan
-www.paraphraser.io##.align-self-center.text-center.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-12
-||www.paraphraser.io/images/grammarly-in-3.png?v=1.1$image
-||www.paraphraser.io/images/pc-banner-id.png$image
-www.paraphraser.io###word_limit_reach
-www.paraphraser.io##.pb-1.pl-1.pr-1.pt-0.col-lg-12
-www.paraphraser.io##.align-self-center.text-center.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-12
-www.paraphraser.io##.m-0.justify-content-center.row
-www.paraphraser.io##.a-tag.br-word.col-xs-12.col-sm-12.col-md-8.col-lg-8
-www.paraphraser.io##.footer-area
-www.paraphraser.io##nav
-www.paraphraser.io##.pt-5.content-section
-www.paraphraser.io##.bg-F4F4F4.py-5.content-section
-www.paraphraser.io##section:nth-of-type(4)
-www.paraphraser.io##section:nth-of-type(5)
-www.paraphraser.io##section:nth-of-type(6)
-www.paraphraser.io##section.py-5.content-section:nth-of-type(7)
-www.paraphraser.io##body > .bg-065F51
-www.paraphraser.io##body > .bg-white
-!------------------------------------------------------------------------------
-||cdn.safefileku.com/download-section-min.png$image
-safefileku.com##.space-y-4.lg\:block.hidden > section
-safefileku.com##.px-6.my-8
-safefileku.com##.gap-2.items-center.flex.rounded-md.text-sm.py-2.px-4.font-semibold.text-white.bg-blue-600
-safefileku.com##.bg-white.sm\:py-32.py-20
-safefileku.com##.z-0.circles
-safefileku.com##.sm\:py-28.py-20.bg-blue-600.overflow-hidden.relative
-safefileku.com##.bg-gray-50.sm\:py-32.py-20
-!------------------------------------------------------------------------------
-account.proton.me##.UpsellPanel.border-strong.panel.lg\:order-0.order-1.self-start.py-5.px-6.rounded.border.relative
-account.proton.me##.UpsellPanel.border-recommended.border-primary.panel.lg\:order-0.order-1.self-start.py-5.px-6.rounded.border.relative
-account.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
-mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
-mail.proton.me##.items-start.w-full.flex-nowrap.flex
-drive.proton.me##.interactive-pseudo.relative.px-4.py-2.rounded-full.gap-2.items-center.flex
-drive.proton.me##.justify-center.items-center.gap-2.flex.w-full.my-2.button-outline-norm.button-medium.button
-drive.proton.me##li.shrink-0.topnav-listItem:nth-of-type(1) > .interactive.rounded.drawer-sidebar-button
-mail.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
-mail.proton.me##.p-0-5.lg\:text-center.text-left.bg-promotion-gradient-horizontal.relative.bg-promotion.shrink-0.flex-nowrap.flex
-!
-!
-!
-!
-!
-!
-!
-!
-!------------------------------------------------- @BRNFZNLKMN 2026
 
-! Sep 9, 2026 https://gemini.google.com
-gemini.google.com##.ng-star-inserted.mat-unthemed.gds-button-tonal.mat-mdc-unelevated-button.mdc-button--unelevated.mat-mdc-button-base.mdc-button > .mat-mdc-button-touch-target
-gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
-gemini.google.com##.ng-star-inserted.bard-activity-disabled-message
+!------------------------------------------------------------------------------
 
-! Sep 10, 2026 https://www.photoroom.com
 www.photoroom.com##.text-center.items-center.flex-col.max-w-\[1072px\].flex.mx-auto
 www.photoroom.com##.before\:opacity-100.before\:content-\[\'\'\].before\:duration-300.before\:transition-opacity.before\:h-px.before\:bottom-0.before\:inset-x-0.before\:absolute.before\:pointer-events-none.before\:bg-black-alpha-100.backdrop-blur-md.bg-white-alpha-800.\32 xl\:px-10.md\:px-8.sm\:px-6.px-4.items-center.h-\(--header-height\).flex.relative
 www.photoroom.com##.bg-black.lg\:px-16.md\:ps-8.sm\:ps-6.pe-16.ps-4.text-white.relative
@@ -375,20 +296,52 @@ www.photoroom.com##.lg\:pb-10.lg\:pt-24.md\:px-8.sm\:pt-20.sm\:px-6.py-6.px-4.bg
 www.photoroom.com##body > div > div
 www.photoroom.com##.gap-3.items-center.flex-col.flex
 
-! Sep 20, 2026 https://drive.ucweb.com
+!------------------------------------------------------------------------------
+
+www.1024tera.com##.bottom-tip-wrap
+www.1024tera.com##.action-bar-view
+dm.terabox.com##.side-bottom
+dm.terabox.com##.bottom-tip-wrap-part.bottom-tip-wrap
+dm.terabox.com##.wrapper
+dm.terabox.com##.ai-icon.switch-icon
+||cdn.safefileku.com/download-section-min.png$image
+safefileku.com##.space-y-4.lg\:block.hidden > section
+safefileku.com##.px-6.my-8
+safefileku.com##.gap-2.items-center.flex.rounded-md.text-sm.py-2.px-4.font-semibold.text-white.bg-blue-600
+safefileku.com##.bg-white.sm\:py-32.py-20
+safefileku.com##.z-0.circles
+safefileku.com##.sm\:py-28.py-20.bg-blue-600.overflow-hidden.relative
+safefileku.com##.bg-gray-50.sm\:py-32.py-20
 drive.ucweb.com##.downloadBox--LynDp
 
+!AI------------------------------------------------------------------------------
+
+gemini.google.com##.ng-star-inserted.mat-unthemed.gds-button-tonal.mat-mdc-unelevated-button.mdc-button--unelevated.mat-mdc-button-base.mdc-button > .mat-mdc-button-touch-target
+gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
+gemini.google.com##.ng-star-inserted.bard-activity-disabled-message
+chatgpt.com##.dark\:keyboard-focused\:bg-blue-100\/20.dark\:hover\:bg-blue-100\/20.keyboard-focused\:backdrop-blur-\[38\.571px\].keyboard-focused\:bg-blue-400\/\[\.09\].keyboard-focused\:border-blue-400\/\[\.01\].hover\:backdrop-blur-\[38\.571px\].hover\:bg-blue-400\/\[\.09\].hover\:border-blue-400\/\[\.01\].px-3\!.border-solid.border-transparent.border.rounded-lg\!.gap-\[3px\]\!.touch\:h-10.h-\[34px\].pe-3.focus\:outline-none.text-current.whitespace-nowrap.ps-2\.5.bg-transparent.rounded-full.gap-1.items-center.flex.relative.button-glimmer-cta
 
 
-! Sep 21, 2026 https://toco.id
-toco.id##.md\:h-\[304px\].sm\:w-screen.sm\:-mx-\[calc\(\(100vw-100\%\)\/2\)\].to-white.from-\[\#FFFCE7\].bg-gradient-to-b.w-full.h-\[280px\]
-toco.id##.md\:mt-16.mt-10.sm\:mx-0.overflow-auto.gap-4.justify-between.snap-proximity.snap-x.h-\[140px\].flex.ml-4
-toco.id##.py-3.border-b.justify-between.w-screen.flex.-mx-\[calc\(\(100vw-100\%\)\/2\)\]
-toco.id##.md\:gap-6.py-2.to-\[\#FFFDE9\].via-\[\#FFF8AE\].via-\[\#FFF7DB\].from-\[\#FFFACF\].bg-gradient-to-r.gap-2.justify-center.items-center.w-full.flex
-toco.id##.duration-300.transition-opacity.md\:rounded-2xl.md\:aspect-\[1192\/281\].rounded-lg.flex-row.cursor-pointer.w-full.aspect-\[390\/121\.15\].flex
-toco.id##.md\:mt-16.mt-14.md\:gap-4.md\:ml-0.gap-3.flex-col.flex.ml-4
-toco.id##.md\:mt-16.mt-14.md\:gap-4.sm\:ml-0.gap-3.flex-col.flex.ml-4
-toco.id##.md\:py-10.py-6.px-4.bg-white.gap-8.flex-col.flex
-toco.id##div.border-classified-color-20.border-t > .bg-white
-toco.id##.md\:mt-16.mt-14.md\:gap-4.sm\:px-0.px-4.gap-3.flex-col.flex
 
+!PROTON------------------------------------------------------------------------------
+
+account.proton.me##.UpsellPanel.border-strong.panel.lg\:order-0.order-1.self-start.py-5.px-6.rounded.border.relative
+account.proton.me##.UpsellPanel.border-recommended.border-primary.panel.lg\:order-0.order-1.self-start.py-5.px-6.rounded.border.relative
+account.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+mail.proton.me##.items-start.w-full.flex-nowrap.flex
+drive.proton.me##.interactive-pseudo.relative.px-4.py-2.rounded-full.gap-2.items-center.flex
+drive.proton.me##.justify-center.items-center.gap-2.flex.w-full.my-2.button-outline-norm.button-medium.button
+drive.proton.me##li.shrink-0.topnav-listItem:nth-of-type(1) > .interactive.rounded.drawer-sidebar-button
+mail.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+mail.proton.me##.p-0-5.lg\:text-center.text-left.bg-promotion-gradient-horizontal.relative.bg-promotion.shrink-0.flex-nowrap.flex
+mail.proton.me##.bg-promotion-gradient-horizontal.relative.bg-promotion.shrink-0.flex-nowrap.flex
+!
+!
+!
+!
+!
+!
+!
+!
+!------------------------------------------------- Last updated by brnfznlkmn on October 1st 2026 3:54 PM
